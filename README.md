@@ -33,7 +33,7 @@
 - :man_technologist: Technical Lead at Classino
 - :trophy: Best Online Training Website of "Iran Web and Mobile Festival" - Website Edition
 - 💬 Ask me about ``` var topics = [ "Vuejs", "Laravel", "Nodejs", "JavaScript", "CSS" ] ```
-- 📫 How to reach me o.shabani@hotmail.com or me@omidshbani.com.com
+- 📫 How to reach me o.shabani@hotmail.com or me@omidshabani.com
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/> Read more about my projects at <a href="https://omidshabani.com" targrt="_blank">omidshabani.com</a>
 
 <h2 align="left">Connect with me:</h2>
